@@ -1,6 +1,6 @@
-# completo
+# Exercícios para disciplina "Programação para Dispositivos Móveis"
 
-A new Flutter project.
+Exercícios desenvolvidos na graduação de Ciência da Computação na Puc Minas.
 
 ## Getting Started
 
